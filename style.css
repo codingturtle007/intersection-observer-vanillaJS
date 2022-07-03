@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.main .card {
+  border: none;
+  height: 4rem;
+  width: 15rem;
+  margin-bottom: 19em;
+}
+
+.card-body {
+  border-radius: 0px 10px;
+  border: 2px solid;
+}
+
+.card-img-top {
+  height: 15em;
+}
+
+.card-text {
+  height: 1.5rem;
+}
